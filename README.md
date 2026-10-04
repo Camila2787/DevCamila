@@ -21,7 +21,7 @@ Correo: camilacr2787@gmail.com
 cel +57 3054014694
 
 ##English
-# Camila Contreras
+#  María Camila Contreras Rangel
 Full stack developer. I design and build services, APIs, and web applications, and I also ship mobile projects.
 I currently work on fleet control platforms. I have also worked on inventory, billing, and sales applications.
 ## Stack
